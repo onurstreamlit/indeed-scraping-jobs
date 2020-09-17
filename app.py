@@ -44,6 +44,7 @@ def main():
 
   elif choice == "About":
     st.subheader("About App")
+    st.write("Onur Erdogan tarafından yapılmıstır")
     #components.iframe('https://www.google.com)
 
   else:
