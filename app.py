@@ -43,8 +43,7 @@ def main():
       #report.show_html()
 
   elif choice == "About":
-    st.subheader("About App")
-    st.write("Onur Erdogan tarafından yapılmıstır")
+    st.subheader("Onur Erdogan tarafından yapılmıstır")
     #components.iframe('https://www.google.com)
 
   else:
